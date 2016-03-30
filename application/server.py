@@ -1,4 +1,4 @@
-from application import app
+from application import app, db
 import os
 from flask import Flask
 
